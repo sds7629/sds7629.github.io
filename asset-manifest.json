@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sds7629/react-start.git/static/css/main.611a6d4a.css",
+    "main.js": "/sds7629/react-start.git/static/js/main.85039ec4.js",
+    "index.html": "/sds7629/react-start.git/index.html",
+    "main.611a6d4a.css.map": "/sds7629/react-start.git/static/css/main.611a6d4a.css.map",
+    "main.85039ec4.js.map": "/sds7629/react-start.git/static/js/main.85039ec4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.611a6d4a.css",
+    "static/js/main.85039ec4.js"
+  ]
+}
